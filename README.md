@@ -153,7 +153,7 @@ ai-resume-builder/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/nikhil-surve-dev/ai-resume-builder.git
+git clone https://github.com/nikkk-surve/ai-resume-builder.git
 cd ai-resume-builder
 ```
 
@@ -323,7 +323,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-**Built with ❤️ and AI by [Nikhil Surve](https://github.com/nikhil-surve-dev)**
+**Built with ❤️ and AI by [Nikhil Surve](https://github.com/nikkk-surve)**
 
 ⭐ Star this repo if you found it useful!
 
